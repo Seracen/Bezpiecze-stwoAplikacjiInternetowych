@@ -1,0 +1,80 @@
+﻿@model BAI3.Models.User
+@using Microsoft.AspNetCore.Http
+@inject IHttpContextAccessor httpContextAccessor
+@{
+    ViewData["Title"] = "Konto";
+}
+
+<h1>Informacje o użytkowniku</h1>
+
+<div>
+    <h4>@httpContextAccessor.HttpContext.Session.GetString("_UserLogin")</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            <span>Login:</span>
+        </dt>
+        <dd class="col-sm-12">
+            @Html.DisplayFor(model => model.login)
+        </dd>
+        <dt class="col-sm-2">
+            <span>Haslo:</span>
+        </dt>
+        <dd class="col-sm-12">
+            @Html.DisplayFor(model => model.haslo)
+        </dd>
+        <dt class="col-sm-2">
+            <span>Imie:</span>
+        </dt>
+        <dd class="col-sm-12">
+            @Html.DisplayFor(model => model.imie)
+        </dd>
+        <dt class="col-sm-2">
+            <span>Nazwisko:</span>
+        </dt>
+        <dd class="col-sm-12">
+            @Html.DisplayFor(model => model.nazwisko)
+        </dd>
+        <dt class="col-sm-12">
+            <span>Ilość nie udanych prób logowania:</span>
+        </dt>
+        <dd class="col-sm-12">
+            @Html.DisplayFor(model => model.iloscNieUdanychProbLogowania)
+        </dd>
+        <dt class="col-sm-12">
+            <span>blokada konta po 5 nieudanych próbach:</span>
+        </dt>
+        <dd class="col-sm-12">
+            @Html.DisplayFor(model => model.wlaczenieBlokadyKonta)
+        </dd>
+        <dt class="col-sm-2">
+            <span>Konto zablokowane:</span>
+        </dt>
+        <dd class="col-sm-12">
+            @Html.DisplayFor(model => model.blokada)
+        </dd>
+        <dt class="col-sm-12">
+            <span>Data ostatniego nieudanego logowania:</span>
+        </dt>
+        <dd class="col-sm-12">
+            @Html.DisplayFor(model => model.dataOstatniegoNieudanegoLogowania)
+        </dd>
+        <dt class="col-sm-12">
+            <span>Data ostaniego udanego logowania:</span>
+        </dt>
+        <dd class="col-sm-12">
+            @Html.DisplayFor(model => model.dataOstatniegoUdanegoLogowania)
+        </dd>
+    </dl>
+</div>
+<div>
+    @Html.ActionLink("Zmiana hasła", "ChangePassword", new { id = Model.userId }) |
+    @if (Model.wlaczenieBlokadyKonta == "false")
+    {<span>@Html.ActionLink("Włącz blokadę konta", "BlokadaKonta", "Home", new { id = Model.userId }) |</span>}
+else
+{
+    <span>@Html.ActionLink("Wyłącz blokadę konta", "OdbKonta", "Home", new { id = Model.userId }) |</span>
+}
+
+    <a asp-action="Index">Powrót</a>
+</div>

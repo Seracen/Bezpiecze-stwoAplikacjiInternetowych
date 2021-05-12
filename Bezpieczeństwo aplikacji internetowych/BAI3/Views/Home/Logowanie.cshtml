@@ -1,0 +1,49 @@
+﻿@model BAI3.Models.User
+
+@{
+    ViewData["Title"] = "Logowanie";
+}
+
+<h1>Logowanie</h1>
+<hr />
+<div style="margin-bottom:20px">
+    @if (!ViewData.ModelState.IsValid && ViewData.ModelState["Error"].Errors.Count > 0)
+    {
+        <strong class="alert alert-danger">@ViewData.ModelState["Error"].Errors.First().ErrorMessage</strong>
+    }
+</div>
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Logowanie">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input asp-for="userId" class="form-control" hidden />
+            <div class="form-group">
+                <label asp-for="login" class="control-label"></label>
+                <input asp-for="login" class="form-control" />
+                <span asp-validation-for="login" class="text-danger"></span>
+            </div>
+                <input asp-for="haslo" type="password" class="form-control" hidden/>
+                
+            <input asp-for="imie" class="form-control" hidden />
+
+            <input asp-for="nazwisko" class="form-control" hidden />
+
+            <input asp-for="iloscNieUdanychProbLogowania" class="form-control" hidden />
+            <input class="form-check-input" asp-for="wlaczenieBlokadyKonta" hidden />
+            <div class="form-group">
+                <input type="submit" value="Zaloguj" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Powrót do strony głównej</a>
+</div>
+<div>
+    <a asp-action="Rejestracja">Nie masz jeszcze konta?</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

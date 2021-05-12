@@ -1,0 +1,312 @@
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\appsettings.json
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\BAI3.exe
+F:\BAI3\BAI3\obj\Debug\netcoreapp3.1\BAI3.RazorAssemblyInfo.cache
+F:\BAI3\BAI3\obj\Debug\netcoreapp3.1\BAI3.RazorAssemblyInfo.cs
+F:\BAI3\BAI3\obj\Debug\netcoreapp3.1\BAI3.AssemblyInfoInputs.cache
+F:\BAI3\BAI3\obj\Debug\netcoreapp3.1\BAI3.AssemblyInfo.cs
+F:\BAI3\BAI3\obj\Debug\netcoreapp3.1\BAI3.TagHelpers.input.cache
+F:\BAI3\BAI3\obj\Debug\netcoreapp3.1\BAI3.TagHelpers.output.cache
+F:\BAI3\BAI3\obj\Debug\netcoreapp3.1\BAI3.RazorCoreGenerate.cache
+F:\BAI3\BAI3\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\BAI3\BAI3\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\BAI3\BAI3\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\BAI3\BAI3\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\BAI3\BAI3\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\BAI3\BAI3\obj\Debug\netcoreapp3.1\BAI3.RazorTargetAssemblyInfo.cache
+F:\BAI3\BAI3\obj\Debug\netcoreapp3.1\BAI3.RazorTargetAssemblyInfo.cs
+F:\BAI3\BAI3\obj\Debug\netcoreapp3.1\staticwebassets\BAI3.StaticWebAssets.Manifest.cache
+F:\BAI3\BAI3\obj\Debug\netcoreapp3.1\staticwebassets\BAI3.StaticWebAssets.xml
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\BAI3\BAI3\obj\Debug\netcoreapp3.1\BAI3.csproj.CopyComplete
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\BAI3\BAI3\obj\Debug\netcoreapp3.1\BAI3.csproj.CoreCompileInputs.cache
+F:\BAI3\BAI3\obj\Debug\netcoreapp3.1\BAI3.MvcApplicationPartsAssemblyInfo.cache
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\BAI3.deps.json
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\BAI3.runtimeconfig.json
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\BAI3.runtimeconfig.dev.json
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\BAI3.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\BAI3.pdb
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\BAI3.Views.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\BAI3.Views.pdb
+F:\BAI3\BAI3\obj\Debug\netcoreapp3.1\BAI3.Views.pdb
+F:\BAI3\BAI3\obj\Debug\netcoreapp3.1\BAI3.dll
+F:\BAI3\BAI3\obj\Debug\netcoreapp3.1\BAI3.pdb
+F:\BAI3\BAI3\obj\Debug\netcoreapp3.1\BAI3.genruntimeconfig.cache
+F:\BAI3\BAI3\obj\Debug\netcoreapp3.1\Razor\Views\Home\BlokadaKonta.cshtml.g.cs
+F:\BAI3\BAI3\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\BAI3\BAI3\obj\Debug\netcoreapp3.1\Razor\Views\Home\Konto.cshtml.g.cs
+F:\BAI3\BAI3\obj\Debug\netcoreapp3.1\Razor\Views\Home\Logowanie.cshtml.g.cs
+F:\BAI3\BAI3\obj\Debug\netcoreapp3.1\Razor\Views\Home\OdbKonta.cshtml.g.cs
+F:\BAI3\BAI3\obj\Debug\netcoreapp3.1\Razor\Views\Home\Panel.cshtml.g.cs
+F:\BAI3\BAI3\obj\Debug\netcoreapp3.1\Razor\Views\Home\Rejestracja.cshtml.g.cs
+F:\BAI3\BAI3\obj\Debug\netcoreapp3.1\scopedcss\bundle\BAI3.styles.css
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BAI3\BAI3\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BAI3\BAI3\obj\Debug\netcoreapp3.1\Razor\Views\Home\ActualLogin.cshtml.g.cs
+F:\BAI3\BAI3\obj\Debug\netcoreapp3.1\BAI3.csprojAssemblyReference.cache
+F:\BAI3\BAI3\obj\Debug\netcoreapp3.1\Razor\Views\Home\ChangePassword.cshtml.g.cs
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\obj\Debug\netcoreapp3.1\BAI3.csprojAssemblyReference.cache
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\obj\Debug\netcoreapp3.1\BAI3.AssemblyInfoInputs.cache
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\obj\Debug\netcoreapp3.1\BAI3.AssemblyInfo.cs
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\obj\Debug\netcoreapp3.1\BAI3.csproj.CoreCompileInputs.cache
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\obj\Debug\netcoreapp3.1\BAI3.MvcApplicationPartsAssemblyInfo.cache
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\obj\Debug\netcoreapp3.1\BAI3.RazorAssemblyInfo.cache
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\obj\Debug\netcoreapp3.1\BAI3.RazorAssemblyInfo.cs
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\obj\Debug\netcoreapp3.1\staticwebassets\BAI3.StaticWebAssets.Manifest.cache
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\obj\Debug\netcoreapp3.1\staticwebassets\BAI3.StaticWebAssets.xml
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\obj\Debug\netcoreapp3.1\scopedcss\bundle\BAI3.styles.css
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\obj\Debug\netcoreapp3.1\BAI3.TagHelpers.input.cache
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\obj\Debug\netcoreapp3.1\BAI3.TagHelpers.output.cache
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\obj\Debug\netcoreapp3.1\BAI3.RazorCoreGenerate.cache
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\obj\Debug\netcoreapp3.1\Razor\Views\Home\ActualLogin.cshtml.g.cs
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\obj\Debug\netcoreapp3.1\Razor\Views\Home\BlokadaKonta.cshtml.g.cs
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\obj\Debug\netcoreapp3.1\Razor\Views\Home\ChangePassword.cshtml.g.cs
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\obj\Debug\netcoreapp3.1\Razor\Views\Home\Konto.cshtml.g.cs
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\obj\Debug\netcoreapp3.1\Razor\Views\Home\Logowanie.cshtml.g.cs
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\obj\Debug\netcoreapp3.1\Razor\Views\Home\OdbKonta.cshtml.g.cs
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\obj\Debug\netcoreapp3.1\Razor\Views\Home\Panel.cshtml.g.cs
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\obj\Debug\netcoreapp3.1\Razor\Views\Home\Rejestracja.cshtml.g.cs
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\obj\Debug\netcoreapp3.1\BAI3.RazorTargetAssemblyInfo.cache
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\obj\Debug\netcoreapp3.1\BAI3.RazorTargetAssemblyInfo.cs
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\obj\Debug\netcoreapp3.1\BAI3.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\obj\Debug\netcoreapp3.1\BAI3.pdb
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\BAI3.exe
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\BAI3.deps.json
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\BAI3.runtimeconfig.json
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\BAI3.runtimeconfig.dev.json
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\BAI3.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\BAI3.pdb
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\BAI3.Views.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\BAI3.Views.pdb
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\obj\Debug\netcoreapp3.1\BAI3.Views.pdb
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\obj\Debug\netcoreapp3.1\BAI3.csproj.CopyComplete
+F:\Zajecia SM9\Bezpieczeństwo\BAI3\BAI3\obj\Debug\netcoreapp3.1\BAI3.genruntimeconfig.cache

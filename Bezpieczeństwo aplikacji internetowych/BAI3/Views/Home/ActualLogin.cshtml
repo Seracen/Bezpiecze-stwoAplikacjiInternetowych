@@ -1,0 +1,80 @@
+﻿@model BAI3.Models.UserView
+
+@{
+    ViewData["Title"] = "ActualLogin";
+}
+
+<h1>Logowanie</h1>
+
+<h4>Hasło</h4>
+<hr />
+<input type="text" id="schema" hidden value="@ViewBag.schema" />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="ActualLogin">
+            <div asp-validation-summary="ModelOnly" class="text-danger">@ViewBag.Error</div>
+            <div class="form-group">
+                <label class="control-label">Uzupełnij wybrane luki: </label>
+
+                <div style="align-content:baseline">
+                    @for (int i = 0; i < ViewBag.schema.Length; i++)
+                    {
+                        if (ViewBag.schema[i] == '0')
+                        {
+                            <span><input type="text" disabled style="width:25px" /></span>
+                        }
+                        else
+                        {
+                            <span><input type="text" style="width:25px" name="partial" id="@i" /></span>
+                        }
+                    }
+
+                </div>
+                <span asp-validation-for="partialPassword" class="text-danger"></span>
+            </div>
+
+
+            <div class="form-group">
+                <input type="button" value="Zaloguj" class="btn btn-primary" id="button" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Powrót do strony głównej</a>
+</div>
+<script type="text/javascript">
+    var elements = document.getElementsByName("partial");
+    document.getElementById("button").addEventListener('click', clickButton);
+    var password = [];
+    var result = "";
+    console.log(password);
+    for (var i = 0; i < elements.length; i++) {
+        elements[i].addEventListener("change", myFunction);
+    }
+    function myFunction(value) {
+        password[value.target.id] = value.target.value;
+        console.log(password);
+    }
+    function clickButton() {
+
+        for (var i = 0; i < password.length; i++) {
+            if (password[i] != undefined)
+                result += password[i] + "";
+            else
+                result += " ";
+        }
+        $.ajax({
+            url: 'ActualLogin',
+            type: 'POST',
+            data: JSON.stringify(result),
+            contentType: 'application/json',
+            success: function () { window.location.href = "/Home/Index"; }
+        });
+    }
+
+</script>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

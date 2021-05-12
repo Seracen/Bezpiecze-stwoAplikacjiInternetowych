@@ -1,0 +1,14 @@
+﻿
+@{
+    ViewData["Title"] = "BlokadaKonta";
+}
+    <div style="vertical-align:central;text-align:center">
+        <div>
+            <strong>Czy jesteś pewien/na, że chcesz zablokować konto po 5 nie udanych próbach?</strong>
+        </div>
+        <div style="margin-top:10px">
+            @Html.ActionLink("Tak", "BlokowanieKonta", "Home", new { id = ViewBag.id }, htmlAttributes: new { @class = "btn btn-danger" })
+            @Html.ActionLink("Nie", "Konto", "Home", htmlAttributes: new { @class = "btn btn-success" })
+        </div>
+    </div>
+
